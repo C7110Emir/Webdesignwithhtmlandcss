@@ -1,1 +1,1 @@
-A 3 webpage webdesign done with html and css within 2.5 hours
+A 3 webpage basic(for me) webdesign done with html and css
