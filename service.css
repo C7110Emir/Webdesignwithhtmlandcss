@@ -1,0 +1,125 @@
+body{
+    margin:0;
+    background-color:lightskyblue
+}
+span {
+    color:red
+}
+#header{
+    background-color: darkgray;
+    padding-top:1.5em;
+    padding-bottom:1.5em;
+    padding-left: 1.5em;
+    padding-right:0px;
+    text-align:left;
+    color: white;
+    border-bottom: 0.3em solid purple;
+}   
+#titleleft {
+    margin-top: 1em;
+    display: inline;
+   
+
+}
+
+#linkContact {
+   margin-left: 2.5em;
+   text-decoration: none;
+   color: purple;
+   font-size: 20px
+}
+#linkabout {
+   margin-left: 2.5em;
+   color: white;
+   text-decoration: none;
+   font-size: 20px;
+}
+#titlehome {
+    color: white;
+    margin-left:70%;
+    text-decoration: none;
+    font-size:20px;
+    
+}
+#textinnav {
+    display: inline;
+}
+
+#barunderimg {
+    text-align:left;
+    background-color:darkgray;
+    color:white;
+    padding-top:2.5em;
+    padding-bottom:1.5em;
+    padding-left: 1em; 
+    border-bottom: 0.3em solid red
+}
+#inputbox {
+    margin-left: 65%;
+    height:2em;
+    border-radius: 23px;
+    outline:none;
+}
+#subs {
+    background-color: orange;
+    color:white;
+    height:2.5em
+}
+#formdiv {
+    background-color:orange;
+    color:white;
+    float:right;
+    height:19.4em;
+    margin-top: 2.5em;
+}
+
+#viaphone {
+    padding:5em;
+    background-color: #8c7373;
+    width:75em;
+    height:8em;
+    color: white;
+    margin-bottom:5em
+}
+
+#viaemail{
+    padding:5em;
+    background-color:#8c7373;
+    width:75em;
+    height:8em;
+    color: white;
+}
+#viaphoneheader{
+    font-size: 30px;
+}
+#viaphonephone{
+    font-size: 25px;
+}
+
+#viaphonemessage{
+    font-size:20px
+}
+#viaemailheader{
+    font-size:30px
+}
+#viaemailmail {
+    font-size:25px;
+}
+#viaemailmessage {
+    font-size:20px
+}
+#footer{
+    background-color:white;
+    position:absolute;
+    bottom:0%;
+    right:0%;
+    left:0%;
+    text-align:center
+}
+
+
+#footerimg {
+    height:5em
+}
+
+

@@ -1,0 +1,143 @@
+body{
+    margin:0
+}
+span {
+    color:red
+}
+#header{
+    background-color: darkgray;
+    padding-top:1.5em;
+    padding-bottom:1.5em;
+    padding-left: 1.5em;
+    padding-right:0px;
+    text-align:left;
+    color: white;
+    border-bottom: 0.3em solid red;
+}   
+#titleleft {
+    margin-top: 1em;
+    display: inline;
+   
+
+}
+
+#linkcontact {
+   margin-left: 2.5em;
+   text-decoration: none;
+   color: white;
+   font-size: 20px
+}
+#linkabout {
+   margin-left: 2.5em;
+   color: white;
+   text-decoration: none;
+   font-size: 20px;
+}
+#titlehome {
+    color: purple;
+    margin-left:70%;
+    text-decoration: none;
+    font-size:20px;
+    
+}
+#imgonpage{
+    background: url("showcase.jpg");
+    text-align:center;
+    border:1px solid black;
+    color:white;
+    height:20em;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+#imgtitle {
+    margin-top: 5em;
+    font-size: 30px;
+    font-style: italic;
+}
+
+#imgtext {
+    font-size: 20px;
+}
+
+#textinnav {
+    display: inline;
+}
+
+#barunderimg {
+    text-align:left;
+    background-color:darkgray;
+    color:white;
+    padding-top:2.5em;
+    padding-bottom:1.5em;
+    padding-left: 1em; 
+}
+#inputbox {
+    margin-left: 65%;
+    height:2em;
+    border-radius: 23px;
+    outline:none;
+}
+#subs {
+    background-color: orange;
+    color:white;
+    height:2.5em
+}
+
+#fleximgs {
+    display:flex
+}
+
+
+#imghtml {
+    margin-left: 15em;
+    margin-right: 25em;
+    height:10em;
+    margin-top:2em
+}
+#imgcss {
+    margin-right: 25em;
+    margin-top:2em;
+    height: 10em;
+}
+#brushimg {
+    height:10em;
+    margin-top:2em
+}
+
+#textunderimg {
+    display:flex
+}
+
+.txthtml {
+    margin-left: 10em;
+    margin-right: 16.5em;
+}
+.txtcss {
+    margin-right: 17.5em;
+}
+
+#imglorem {
+    display:flex;
+}
+
+#loremhtml {
+    margin-left: 8em;
+    margin-right: 7em;
+
+}
+#loremcss {
+    margin-right: 7em;
+    margin-bottom: 5.7em;
+}
+#footer {
+    text-align: center;
+    background-color: burlywood;
+}
+#footerimg {
+    height:5em;
+    
+    
+}
+
+

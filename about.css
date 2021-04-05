@@ -1,0 +1,123 @@
+body{
+    margin:0;
+    background-color:lightskyblue
+}
+span {
+    color:red
+}
+#header{
+    background-color: darkgray;
+    padding-top:1.5em;
+    padding-bottom:1.5em;
+    padding-left: 1.5em;
+    padding-right:0px;
+    text-align:left;
+    color: white;
+    border-bottom: 0.3em solid purple;
+}   
+#titleleft {
+    margin-top: 1em;
+    display: inline;
+   
+
+}
+
+#linkContact {
+   margin-left: 2.5em;
+   text-decoration: none;
+   color: white;
+   font-size: 20px
+}
+#linkabout {
+   margin-left: 2.5em;
+   color: purple;
+   text-decoration: none;
+   font-size: 20px;
+}
+#titlehome {
+    color: white;
+    margin-left:70%;
+    text-decoration: none;
+    font-size:20px;
+    
+}
+#textinnav {
+    display: inline;
+}
+
+#barunderimg {
+    text-align:left;
+    background-color:darkgray;
+    color:white;
+    padding-top:2.5em;
+    padding-bottom:1.5em;
+    padding-left: 1em; 
+    border-bottom: 0.3em solid red
+}
+#inputbox {
+    margin-left: 65%;
+    height:2em;
+    border-radius: 23px;
+    outline:none;
+}
+#subs {
+    background-color: orange;
+    color:white;
+    height:2.5em
+}
+
+#floatdiv {
+    background-color: darkblue;
+    color:white;
+    float:right;
+    text-align: center;
+    width: 25em;
+    height:20em;
+    margin-top: 5em;
+    overflow:visible;
+}
+
+#headerfloat {
+    font-size: 30px;
+}
+#txtfloat {
+    font-size:20px
+}
+
+#aboutmewhite {
+    width:75em;
+    margin-left: 5em;
+    background-color: #8c7373;
+    color:white;
+    height:15em;
+    margin-bottom:1em;
+    padding:1em;
+    margin-top:2.5em
+
+}
+#aboutmeheader {
+    font-size: 30px;
+    margin-top:0
+}
+#aboutmetxt {
+    font-size: 16px;
+}
+
+#aboutmeblue {
+    width:75em;
+    margin-left: 5em;
+    background-color:burlywood;
+    padding:1em;
+}
+#footer{
+    position:absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    text-align: center;
+    background-color: white
+}
+
+#footerimg {
+    height:10em
+}
